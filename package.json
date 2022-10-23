@@ -1,0 +1,23 @@
+{
+  "name": "to-do-list-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glowingmanagement/to-do-list-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glowingmanagement/to-do-list-typescript/issues"
+  },
+  "homepage": "https://github.com/glowingmanagement/to-do-list-typescript#readme",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
